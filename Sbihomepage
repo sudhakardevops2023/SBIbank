@@ -1,0 +1,8 @@
+this is home page for sbi loans
+<p>The following contains address information about the author, in an <code>address</code>
+    element.</p>
+<address>
+    <a href="../personal.html" lang="fi" hreflang="en">Jukka Korpela</a>,
+    <a href="mailto:jukkakk@gmail.com">jukkakk@gmail.com</A><br>
+    Päivänsäteenkuja 4 A, Espoo, Finland
+</address>
